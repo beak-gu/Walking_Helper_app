@@ -5,6 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/live_label"
