@@ -1,4 +1,4 @@
-## **🚶‍♂️ Walking Help App “스몸비(Smartphone + Zombie) 사고를 막기 위한 AI 기반 보행 보조 어플리케이션”**
+### **🚶‍♂️ Walking Help App “스몸비(Smartphone + Zombie) 사고를 막기 위한 AI 기반 보행 보조 어플리케이션”**
 
 주변 사물을 인식하고 위험을 감지하여 사용자와 보호자에게 알림을 제공하는 스마트 보행 안전 도우미 앱입니다.
 
